@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(195, 186, 194);
+}
+
+
+button{
+
+    color:rgb(0, 0, 0);
+    background-color: rgb(215, 212, 212);
+    height:70px;
+    width: 200px;
+    border-radius: 40px;
+}
+
+input
+{
+    color:rgb(0, 0, 0);
+    background-color: rgb(214, 212, 215);
+    height:50px;
+    width: 200px;
+    border-radius: 40px;
+}
